@@ -35,7 +35,7 @@ MCP- Microsoft Certified Professional, ITECH INC, 2001
 MCSE - Microsoft Certified Systems Engineer, ITECH INC, 2000
 MCP- Microsoft Certified Professional, ITECH INC, 2001
 AWC Certified Cloud Practitioner, 2020
-
+HashiCorp Certified Terraform Associate, 2021
 
 EMPLOYMENT HISTORY:
 
